@@ -309,10 +309,7 @@ p:last-child { margin-bottom: 0; }
 .pub-item {
   padding: 1.5rem 0;
   border-bottom: 1px solid var(--grey-light);
-  display: grid;
-  grid-template-columns: 48px 1fr;
-  gap: 1rem;
-  align-items: start;
+  display: block;
 }
 
 .pub-year {
